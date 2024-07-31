@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain-community
+pypdf
+python-dotenv
+llmsherpa
+streamlit
+bs4
